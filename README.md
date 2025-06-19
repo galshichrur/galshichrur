@@ -59,7 +59,5 @@ Feel free to explore my repositories and projects, and don’t hesitate to conne
 
 [![](https://visitcount.itsvg.in/api?id=maybegal&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
----
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/maybegal.png)](https://tryhackme.com/p/maybegal)
-
