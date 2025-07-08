@@ -49,9 +49,9 @@ Feel free to explore my repositories and projects, and don’t hesitate to conne
 [![Development Tools](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=maybegal&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=galshichrur&theme=react&hide_border=false)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maybegal&theme=react&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=galshichrur&theme=react&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maybegal&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
