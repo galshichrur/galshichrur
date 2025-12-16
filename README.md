@@ -1,6 +1,5 @@
 # Gal Shichrur
 Hey 👋 I'm Gal Shichrur, a 17 year old **Cybersecurity Researcher & Software Engineer** from Israel.
-Most of my knowledge comes from independent learning, where I go deep into advanced topics.
 I am highly motivated, curious, and passionate about computers. In my free time I **research**, **develop projects**, **practice CTF challenges**, and **read technical books**.
 At school I study 10 units in **Software Engineering** (Computer Science and Cybersecurity), together with advanced Math, Physics, and English.
 
