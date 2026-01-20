@@ -13,14 +13,14 @@ At school I study 10 units in **Software Engineering** (Computer Science and Cyb
 - **Programming Languages**:
   - Low Level: C, x86 Assembly (x86-32 / x86-64)
   - High Level: Python, C#, Java, JS
-- **Cyber Tools**:
+- **Tools**:
   - Exploitation: GDB (pwndbg), pwntools, QEMU, Ghidra, radare2, IDA
   - Penetration Testing: Nmap, Burp Suite, Metasploit, Responder, John the Ripper, Hydra, Aircrack-ng, Netcat, SQLmap
   - Network: Wireshark, Scapy, tcpdump
 - **Databases**: PostgreSQL, SQLite, Supabase, MySQL
-- **Web Development**: HTML, CSS, TailwindCSS, React, Next.js, .NET, Django, Astro
-- **Development Tools**: Git
-- **IDEs**: VSCode, JetBrains (PyCharm, Rider), Vim
+- **Web Development**: React, Next.js, TailwindCSS, .NET, Django, Astro (HTML, CSS)
+- **Development Tools**: Git, Docker
+- **IDEs**: VSCode, JetBrains IDEs (PyCharm, Rider), Vim
 
 ---
 
